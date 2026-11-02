@@ -1,0 +1,3 @@
+.venv/
+.env.landinglens
+__pycache__/

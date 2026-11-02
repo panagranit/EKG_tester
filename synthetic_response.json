@@ -1,0 +1,8 @@
+{
+  "type": "ClassificationPrediction",
+  "predictions": {
+    "labelName": "AFib",
+    "labelIndex": 1,
+    "score": 0.9
+  }
+}
